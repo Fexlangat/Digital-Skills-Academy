@@ -1,7 +1,15 @@
 h1 {
     color: rgb(245, 33, 5);
+    text-align: justify;
 }
 #body {
     background-color: rgb(49, 218, 77);
     color: rgb(2, 2, 2);
+}
+#nav-bar { 
+    text-align: center; 
+    margin-top: none;
+    overflow: auto;
+    display: flex;
+    padding-top: 0%;
 }
